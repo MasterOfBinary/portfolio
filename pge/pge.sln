@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgetest", "pgetest\pgetest.vcxproj", "{5722E71A-AF67-4098-BB1F-2C835FEB62A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pge", "pge\pge.vcxproj", "{AE47D562-E7D4-4512-B5D1-BDE3AA8B926C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgemeshconv", "pgemeshconv\pgemeshconv.vcxproj", "{ED3FF781-6040-4B09-8D05-6443C45084BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5722E71A-AF67-4098-BB1F-2C835FEB62A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5722E71A-AF67-4098-BB1F-2C835FEB62A8}.Debug|Win32.Build.0 = Debug|Win32
+		{5722E71A-AF67-4098-BB1F-2C835FEB62A8}.Release|Win32.ActiveCfg = Release|Win32
+		{5722E71A-AF67-4098-BB1F-2C835FEB62A8}.Release|Win32.Build.0 = Release|Win32
+		{AE47D562-E7D4-4512-B5D1-BDE3AA8B926C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE47D562-E7D4-4512-B5D1-BDE3AA8B926C}.Debug|Win32.Build.0 = Debug|Win32
+		{AE47D562-E7D4-4512-B5D1-BDE3AA8B926C}.Release|Win32.ActiveCfg = Release|Win32
+		{AE47D562-E7D4-4512-B5D1-BDE3AA8B926C}.Release|Win32.Build.0 = Release|Win32
+		{ED3FF781-6040-4B09-8D05-6443C45084BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED3FF781-6040-4B09-8D05-6443C45084BD}.Debug|Win32.Build.0 = Debug|Win32
+		{ED3FF781-6040-4B09-8D05-6443C45084BD}.Release|Win32.ActiveCfg = Release|Win32
+		{ED3FF781-6040-4B09-8D05-6443C45084BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
