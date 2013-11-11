@@ -11,6 +11,12 @@ Another thing that can be customized is the number of players. If you use the co
 
 Another thing I sometimes did was enable wireframe mode - usually for debugging (or just for fun). You can turn on wireframe mode by uncommenting lines 99 and 100 in pgetest.cpp. At one point I had random coins placed on the map that you could get for points, and I noticed lines commented some places that make that happen. If you like, you can try to find them and uncomment them and see what happens - it's better with more than one player though.
 
-**Problems:** If you have problems with the program, make sure you have DirectX 10 first - which only works on Windows Vista. Sorry, XP users. I found when I ran it from Visual Studio it would sometimes start from a different folder, so the files wouldn't load and it would crash. If that happens, try making a shortcut to pgetest.exe, check the shortcut properties, and make sure the Start in folder is the folder it's in.
+Problems
+--------
 
-**Compiling:** If it doesn't compile in Visual Studio, make sure each project has (1) the DirectX include directory and (2) the DirectX x86 library directory set. It seems like you can't set directories that are used by every project anymore like you could in VS 2005 - maybe I just haven't found out how yet. *Edit: I figured out how, but I haven't updated the project. Sorry.*
+If you have problems with the program, make sure you have DirectX 10 - which only works on Windows Vista. I found when I ran it from Visual Studio it would sometimes start from a different folder, so the files wouldn't load and it would crash. If that happens, try making a shortcut to pgetest.exe, check the shortcut properties, and make sure the Start in folder is the folder it's in.
+
+Compiling
+---------
+
+If it doesn't compile in Visual Studio, make sure each project has (1) the DirectX include directory and (2) the DirectX x86 library directory set. It seems like you can't set directories that are used by every project anymore like you could in VS 2005 - maybe I just haven't found out how yet. *Edit: I figured out how, but I haven't updated the project. Sorry.*
