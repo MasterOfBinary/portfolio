@@ -9,6 +9,22 @@ Note that many of these were just for my learning, or for my own use, and haven'
 
 All of these projects used Visual Studio 2005. My favourite programming language for interface design is C#, so that's the language I used for nearly all of them. But I'll indicate where I used a different language (usually C++), or some library.
 
+Overview
+--------
+
+* audioinfo - An MP3 tag editor.
+* binaryviewer - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
+* cb07 - The first version of a budget program for churches.
+* cb08 - The second version.
+* cb09 - The third version (unfinished).
+* codecounter - Counts the lines of code and number of files in a folder.
+* dotnettests - Several tests I used to try out features of .NET.
+* foldercontents - Lists the contents of a folder.
+* metaltrainer - A workout app for BlackBerry 10.
+* mmtest - A semi-functional wavetable synthesizer.
+* onyxtouch - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
+* pge - A game and gaem engine using DirectX 10.
+
 Problems
 --------
 
