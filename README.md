@@ -12,18 +12,18 @@ All of these projects used Visual Studio 2005. My favourite programming language
 Overview
 --------
 
-* audioinfo - An MP3 tag editor.
-* binaryviewer - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
-* cb07 - The first version of a budget program for churches.
-* cb08 - The second version.
-* cb09 - The third version (unfinished).
-* codecounter - Counts the lines of code and number of files in a folder.
-* dotnettests - Several tests I used to try out features of .NET.
-* foldercontents - Lists the contents of a folder.
-* metaltrainer - A workout app for BlackBerry 10.
-* mmtest - A semi-functional wavetable synthesizer.
-* onyxtouch - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
-* pge - A game and gaem engine using DirectX 10.
+* [audioinfo](https://github.com/MasterOfBinary/portfolio/tree/master/audioinfo) - An MP3 tag editor.
+* [binaryviewer](https://github.com/MasterOfBinary/portfolio/tree/master/binaryviewer) - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
+* [cb07](https://github.com/MasterOfBinary/portfolio/tree/master/cb07) - The first version of a budget program for churches.
+* [cb08](https://github.com/MasterOfBinary/portfolio/tree/master/cb08) - The second version.
+* [cb09](https://github.com/MasterOfBinary/portfolio/tree/master/cb09) - The third version (unfinished).
+* [codecounter](https://github.com/MasterOfBinary/portfolio/tree/master/codecounter) - Counts the lines of code and number of files in a folder.
+* [dotnettests](https://github.com/MasterOfBinary/portfolio/tree/master/dotnettests) - Several tests I used to try out features of .NET.
+* [foldercontents](https://github.com/MasterOfBinary/portfolio/tree/master/foldercontents) - Lists the contents of a folder.
+* [metaltrainer](https://github.com/MasterOfBinary/portfolio/tree/master/metaltrainer) - A workout app for BlackBerry 10.
+* [mmtest](https://github.com/MasterOfBinary/portfolio/tree/master/mmtest) - A semi-functional wavetable synthesizer.
+* [onyxtouch](https://github.com/MasterOfBinary/portfolio/tree/master/onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
+* [pge](https://github.com/MasterOfBinary/portfolio/tree/master/pge) - A game and gaem engine using DirectX 10.
 
 Problems
 --------
