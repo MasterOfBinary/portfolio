@@ -5,9 +5,7 @@ Some of the programming work I've done in the past is available here. These are 
 
 Each project has a README.md file that describes the project, and most have source code. Binaries for Windows are in a bin directory under the project directory.
 
-Note that many of these were just for my learning, or for my own use, and haven't been tested like they should. There are definitely problems and areas that could be improved considerably, but I probably won't be developing them anymore. That being said, go ahead and use anything that you think may be useful - they are all free, and you can get the source code for most of them too!
-
-All of these projects used Visual Studio 2005. My favourite programming language for interface design is C#, so that's the language I used for nearly all of them. But I'll indicate where I used a different language (usually C++), or some library.
+Most of these projects used Visual Studio 2005. My favourite programming language for interface design is C#, so that's the language I used for nearly all of them. But I'll indicate where I used a different language (usually C++), or some library.
 
 Overview
 --------
@@ -28,6 +26,8 @@ Overview
 
 Problems
 --------
+
+Many of these were just for my learning, or for my own use, and haven't been tested like they should. There are definitely problems and areas that could be improved considerably, but I probably won't be developing them anymore. That being said, go ahead and use anything that you think may be useful - they are all free, and you can get the source code for most of them too!
 
 Much as I would like to get them all to work right out of the box when you download them, some may not. I'll try to let you know where you might have problems and what you might be able to do to fix them. But I can't make any guarantees that they will compile or run.
 
