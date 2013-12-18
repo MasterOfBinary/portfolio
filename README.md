@@ -24,7 +24,7 @@ Overview
 * [metaltrainer](https://github.com/MasterOfBinary/portfolio/tree/master/metaltrainer) - A workout app for BlackBerry 10.
 * [mmtest](https://github.com/MasterOfBinary/portfolio/tree/master/mmtest) - A semi-functional wavetable synthesizer.
 * [onyxtouch](https://github.com/MasterOfBinary/portfolio/tree/master/onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
-* [pge](https://github.com/MasterOfBinary/portfolio/tree/master/pge) - A game and gaem engine using DirectX 10.
+* [pge](https://github.com/MasterOfBinary/portfolio/tree/master/pge) - A game and game engine using DirectX 10.
 
 Problems
 --------
