@@ -1,5 +1,6 @@
 ﻿//
-// Copyright (c) Vaughn Friesen
+// Copyright (c) 2011 Vaughn Friesen
+// Released under the BSD License, see LICENSE for details.
 //
 
 using System;
