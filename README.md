@@ -17,6 +17,7 @@ Overview
 * [cb07](https://github.com/MasterOfBinary/portfolio/tree/master/cb07) - The first version of a budget program for churches.
 * [cb08](https://github.com/MasterOfBinary/portfolio/tree/master/cb08) - The second version.
 * [cb09](https://github.com/MasterOfBinary/portfolio/tree/master/cb09) - The third version (unfinished).
+* [citationwizard](https://github.com/MasterOfBinary/portfolio/tree/master/citationwizard) - Generates APA citations.
 * [codecounter](https://github.com/MasterOfBinary/portfolio/tree/master/codecounter) - Counts the lines of code and number of files in a folder.
 * [dotnettests](https://github.com/MasterOfBinary/portfolio/tree/master/dotnettests) - Several tests I used to try out features of .NET.
 * [foldercontents](https://github.com/MasterOfBinary/portfolio/tree/master/foldercontents) - Lists the contents of a folder.
