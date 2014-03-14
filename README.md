@@ -11,6 +11,7 @@ Overview
 --------
 
 * [audioinfo](https://github.com/MasterOfBinary/portfolio/tree/master/audioinfo) - An MP3 tag editor.
+* [barbelldomination](https://github.com/MasterOfBinary/portfolio/tree/master/barbelldomination) - A barbell weight calculator.
 * [binaryviewer](https://github.com/MasterOfBinary/portfolio/tree/master/binaryviewer) - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
 * [bubblecursor](https://github.com/MasterOfBinary/portfolio/tree/master/bubblecursor) - A variation of the basic mouse cursor that always selects the nearest control.
 * [cb07](https://github.com/MasterOfBinary/portfolio/tree/master/cb07) - The first version of a budget program for churches.
