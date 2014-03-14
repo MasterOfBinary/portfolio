@@ -1,3 +1,7 @@
+//
+// Copyright (c) Vaughn Friesen
+//
+
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
