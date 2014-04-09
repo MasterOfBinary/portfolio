@@ -14,9 +14,6 @@ Overview
 * [barbelldomination](https://github.com/MasterOfBinary/portfolio/tree/master/barbelldomination) - A barbell weight calculator.
 * [binaryviewer](https://github.com/MasterOfBinary/portfolio/tree/master/binaryviewer) - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
 * [bubblecursor](https://github.com/MasterOfBinary/portfolio/tree/master/bubblecursor) - A variation of the basic mouse cursor that always selects the nearest control.
-* [cb07](https://github.com/MasterOfBinary/portfolio/tree/master/cb07) - The first version of a budget program for churches.
-* [cb08](https://github.com/MasterOfBinary/portfolio/tree/master/cb08) - The second version.
-* [cb09](https://github.com/MasterOfBinary/portfolio/tree/master/cb09) - The third version (unfinished).
 * [citationwizard](https://github.com/MasterOfBinary/portfolio/tree/master/citationwizard) - Generates APA citations.
 * [codecounter](https://github.com/MasterOfBinary/portfolio/tree/master/codecounter) - Counts the lines of code and number of files in a folder.
 * [dotnettests](https://github.com/MasterOfBinary/portfolio/tree/master/dotnettests) - Several tests I used to try out features of .NET.
