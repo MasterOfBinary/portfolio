@@ -30,7 +30,7 @@ Many of these were just for my learning, or for my own use, and haven't been tes
 
 Much as I would like to get them all to work right out of the box when you download them, some may not. I'll try to let you know where you might have problems and what you might be able to do to fix them. But I can't make any guarantees that they will compile or run.
 
-For the C++ ones, if you don't have Visual Studio you will need to download the Visual C++ 2010 redistributable. Install the 32-bit one on 32-bit Windows, and both on 64-bit Windows. For the DirectX 10 one (*pge*) you will need the latest version of DirectX. Church Budget 2008 was last updated to support .NET Framework 4, so that is needed (included with Windows 7). Links are at the bottom of this file.
+For the C++ ones, if you don't have Visual Studio you will need to download the Visual C++ 2010 redistributable. Install the 32-bit one on 32-bit Windows, and both on 64-bit Windows. For the DirectX 10 one (*pge*) you will need the latest version of DirectX. Links are at the bottom of this file.
 
 Compiling
 ---------
