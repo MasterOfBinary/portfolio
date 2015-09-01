@@ -3,4 +3,4 @@ Metal Trainer Project
 
 *C++ application for BlackBerry 10*
 
-A workout app. There's a [free version](http://appworld.blackberry.com/webstore/content/33294890/) and a [paid version](http://appworld.blackberry.com/webstore/content/32950887/) available from BlackBerry World.
+A free workout app. Available from [BlackBerry World](http://appworld.blackberry.com/webstore/content/32950887/) and source will soon be available on [ePeriod Software's GitHub](https://github.com/eperiod-software/metal-trainer).
