@@ -1,27 +1,28 @@
 Vaughn Friesen's Portfolio
-=========
+==========================
 
 Some of the programming work I've done in the past is available here. These are all projects I did by myself, in my spare time.
 
-Each project has a README.md file that describes the project, and most have source code. Binaries for Windows are in a bin directory under the project directory.
+Each project has a `README.md` file that describes the project, and most have source code. Binaries for Windows are in a `bin/` directory under the project directory.
 
-Most of these projects used Visual Studio 2005. My favourite programming language for interface design is C#, so that's the language I used for nearly all of them. But I'll indicate where I used a different language (usually C++), or some library.
+Most of these projects used Visual Studio 2005. My favourite programming language for Windows development is C#, so that's the language I used for nearly all of them. But I'll indicate where I used a different language (usually C++), or a specific library.
 
-Overview
---------
+Project Overview
+----------------
 
-* [audioinfo](https://github.com/MasterOfBinary/portfolio/tree/master/audioinfo) - An MP3 tag editor.
-* [barbelldomination](https://github.com/MasterOfBinary/portfolio/tree/master/barbelldomination) - A barbell weight calculator.
-* [binaryviewer](https://github.com/MasterOfBinary/portfolio/tree/master/binaryviewer) - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
-* [bubblecursor](https://github.com/MasterOfBinary/portfolio/tree/master/bubblecursor) - A variation of the basic mouse cursor that always selects the nearest control.
-* [citationwizard](https://github.com/MasterOfBinary/portfolio/tree/master/citationwizard) - Generates APA citations.
-* [codecounter](https://github.com/MasterOfBinary/portfolio/tree/master/codecounter) - Counts the lines of code and number of files in a folder.
-* [dotnettests](https://github.com/MasterOfBinary/portfolio/tree/master/dotnettests) - Several tests I used to try out features of .NET.
-* [foldercontents](https://github.com/MasterOfBinary/portfolio/tree/master/foldercontents) - Lists the contents of a folder.
-* [metaltrainer](https://github.com/MasterOfBinary/portfolio/tree/master/metaltrainer) - A workout app for BlackBerry 10.
-* [mmtest](https://github.com/MasterOfBinary/portfolio/tree/master/mmtest) - A semi-functional wavetable synthesizer.
-* [onyxtouch](https://github.com/MasterOfBinary/portfolio/tree/master/onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
-* [pge](https://github.com/MasterOfBinary/portfolio/tree/master/pge) - A game and game engine using DirectX 10.
+* [audioinfo](audioinfo) - An MP3 tag editor.
+* [binaryviewer](binaryviewer) - Opens files and displays them in ASCII, decimal, hexadecimal, and binary notations.
+* [bubblecursor](bubblecursor) - A variation of the basic mouse cursor that always selects the nearest control.
+* [codecounter](codecounter) - Counts the lines of code and number of files in a folder.
+* [dotnettests](dotnettests) - Several tests I used to try out features of .NET.
+* [mmtest](mmtest) - A semi-functional wavetable synthesizer.
+* [onyxtouch](onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
+* [pge](pge) - A game and game engine using DirectX 10.
+
+ePeriod Software
+----------------
+
+I have also developed two BlackBerry 10 apps which I've recently open-sourced. They are available at https://github.com/eperiod-software.
 
 Problems
 --------
@@ -38,7 +39,7 @@ Compiling
 I made sure I could compile all the code here before uploading it, but while doing so, I updated the solutions for Visual Studio 2010. They still target the .NET 2.0 though, so it may be possible to load the solutions in earlier versions of Visual Studio. I'm not sure. But you can download the binaries still, and try them out (again, except where I indicate there may be a problem).
 
 Redistributables
----------
+----------------
 
 As promised, here are links to the redistributables you may need:
 
