@@ -1,7 +1,7 @@
 Vaughn Friesen's Portfolio
 ==========================
 
-Some of the programming work I've done in the past is available here. These are all projects I did by myself, in my spare time.
+Some of the programming work I've done in the past is available here. These are mostly projects I did by myself, in my spare time. The exception is the Bubble Cursor project, which I developed with one teammate for a university project.
 
 Each project has a `README.md` file that describes the project, and most have source code. Binaries for Windows are in a `bin/` directory under the project directory.
 
