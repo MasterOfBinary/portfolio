@@ -3,4 +3,7 @@ OnyxTouch Project
 
 *C++ application - uses [gameplay3d](http://gameplay3d.org/)*
 
-An FFT ocean test. This project isn't available here yet.
+An FFT ocean test.
+
+This project is not compiling at the moment, as it is based on an old version of the gameplay3d
+library. I'll update it at some point and add VS2015 projects.

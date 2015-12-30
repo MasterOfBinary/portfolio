@@ -16,7 +16,7 @@ Project Overview
 * [codecounter](codecounter) - Counts the lines of code and number of files in a folder.
 * [dotnettests](dotnettests) - Several tests I used to try out features of .NET.
 * [mmtest](mmtest) - A semi-functional wavetable synthesizer.
-* [onyxtouch](onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (not yet available).
+* [onyxtouch](onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry (no project available).
 * [pge](pge) - A game and game engine using DirectX 10.
 
 ePeriod Software
