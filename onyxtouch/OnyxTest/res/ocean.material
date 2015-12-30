@@ -1,0 +1,24 @@
+material water
+{
+    technique
+    {
+        pass
+        {
+            // shaders
+            vertexShader = res/ocean.vert
+            fragmentShader = res/ocean.frag
+            
+            // uniforms
+            u_worldViewProjectionMatrix = WORLD_VIEW_PROJECTION_MATRIX
+			u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+            u_diffuseColor = 0.235, 0.776, 0.94, 1.0
+
+            // render state
+            renderState
+            {
+                cullFace = true
+                depthTest = true
+            }
+        }
+    }
+}
