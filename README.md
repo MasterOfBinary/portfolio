@@ -25,6 +25,13 @@ ePeriod Software
 
 I have also developed two BlackBerry 10 apps which I've recently open-sourced. They are available at https://github.com/eperiod-software.
 
+FOAMkit
+-------
+
+I developed FOAMkit, a project management platform for OpenFOAM, for my final year CS project
+supervised by Prof. Raymond Spiteri. It is very much a work-in-progress, but it is available
+from https://github.com/MasterOfBinary/foamkit.
+
 Problems
 --------
 
