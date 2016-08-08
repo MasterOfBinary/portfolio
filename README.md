@@ -32,6 +32,11 @@ I developed FOAMkit, a project management platform for OpenFOAM, for my final ye
 supervised by Prof. Raymond Spiteri. It is very much a work-in-progress, but it is available
 from https://github.com/MasterOfBinary/foamkit.
 
+LemurOS
+-------
+
+A group of 4 in CMPT 432 Advanced Operating Systems developed an embedded OS for the Raspberry Pi called LemurOS. The code is available from https://github.com/MasterOfBinary/lemuros.
+
 Problems
 --------
 
