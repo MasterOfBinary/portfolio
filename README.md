@@ -15,6 +15,8 @@ Project Overview
 * [bubblecursor](bubblecursor) - A variation of the basic mouse cursor that always selects the nearest control.
 * [codecounter](codecounter) - Counts the lines of code and number of files in a folder.
 * [dotnettests](dotnettests) - Several tests I used to try out features of .NET.
+* [FOAMkit](https://github.com/MasterOfBinary/foamkit) - Project management system for CFD software [OpenFOAM](https://openfoam.org/).
+* [gobatch](https://github.com/MasterOfBinary/gobatch) - Batch processing library for Golang.
 * [mmtest](mmtest) - A semi-functional wavetable synthesizer.
 * [onyxtouch](onyxtouch) - An FFT ocean test using the gameplay3d engine from BlackBerry.
 * [pagerank](pagerank) - A simple Matlab application to test the convergence of the PageRank algorithm.
@@ -24,18 +26,6 @@ ePeriod Software
 ----------------
 
 I have also developed two BlackBerry 10 apps which I've recently open-sourced. They are available at https://github.com/eperiod-software.
-
-FOAMkit
--------
-
-I developed FOAMkit, a project management platform for OpenFOAM, for my final year CS project
-supervised by Prof. Raymond Spiteri. It is very much a work-in-progress, but it is available
-from https://github.com/MasterOfBinary/foamkit.
-
-LemurOS
--------
-
-A group of 4 in CMPT 432 Advanced Operating Systems developed an embedded OS for the Raspberry Pi called LemurOS. The code is available from https://github.com/MasterOfBinary/lemuros.
 
 Problems
 --------
